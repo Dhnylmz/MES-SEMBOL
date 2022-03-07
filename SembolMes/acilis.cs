@@ -49,9 +49,7 @@ namespace SembolMes
             }
             catch
             {
-                MessageBox.Show("HATA");
-                /// HATA EKLENDİ
-                /// /// 
+                
             }
 
         }
