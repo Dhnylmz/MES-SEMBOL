@@ -1,0 +1,926 @@
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\giris.exe.config
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\giris.exe
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\giris.pdb
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\obj\Debug\giris.csprojAssemblyReference.cache
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\obj\Debug\giris.exe
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\obj\Debug\giris.pdb
+C:\Users\Enes Yılmaz\Desktop\Duhan\Giris\giris\obj\Debug\giris.giris.resources
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\obj\Debug\giris.Form3.resources
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\giris.exe.config
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\giris.exe
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\giris.pdb
+C:\Users\Duhan\Desktop\giris\giris\obj\Debug\giris.csprojAssemblyReference.cache
+C:\Users\Duhan\Desktop\giris\giris\obj\Debug\giris.giris.resources
+C:\Users\Duhan\Desktop\giris\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\Duhan\Desktop\giris\giris\obj\Debug\giris.Form3.resources
+C:\Users\Duhan\Desktop\giris\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\Duhan\Desktop\giris\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\Duhan\Desktop\giris\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\Duhan\Desktop\giris\giris\obj\Debug\giris.exe
+C:\Users\Duhan\Desktop\giris\giris\obj\Debug\giris.pdb
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\giris.exe.config
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\giris.exe
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\giris.pdb
+C:\Users\Enes Yılmaz\Desktop\giris\giris\obj\Debug\giris.csprojAssemblyReference.cache
+C:\Users\Enes Yılmaz\Desktop\giris\giris\obj\Debug\giris.giris.resources
+C:\Users\Enes Yılmaz\Desktop\giris\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\Enes Yılmaz\Desktop\giris\giris\obj\Debug\giris.Form3.resources
+C:\Users\Enes Yılmaz\Desktop\giris\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\Enes Yılmaz\Desktop\giris\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\Enes Yılmaz\Desktop\giris\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\Enes Yılmaz\Desktop\giris\giris\obj\Debug\giris.exe
+C:\Users\Enes Yılmaz\Desktop\giris\giris\obj\Debug\giris.pdb
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\MySql.Data.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\Google.Protobuf.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\Renci.SshNet.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\System.Memory.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\System.Buffers.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\MySql.Data.xml
+C:\Users\Enes Yılmaz\Desktop\giris\giris\obj\Debug\giris.exe.config
+C:\Users\Enes Yılmaz\Desktop\giris\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\giris.exe.config
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\giris.exe
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\giris.pdb
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\Google.Protobuf.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\Renci.SshNet.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\System.Memory.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\System.Buffers.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\MySql.Data.xml
+C:\Users\sembo\Desktop\giris\giris\obj\Debug\giris.csprojAssemblyReference.cache
+C:\Users\sembo\Desktop\giris\giris\obj\Debug\giris.exe.config
+C:\Users\sembo\Desktop\giris\giris\obj\Debug\giris.giris.resources
+C:\Users\sembo\Desktop\giris\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\sembo\Desktop\giris\giris\obj\Debug\giris.Form3.resources
+C:\Users\sembo\Desktop\giris\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\sembo\Desktop\giris\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\sembo\Desktop\giris\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\sembo\Desktop\giris\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\sembo\Desktop\giris\giris\obj\Debug\giris.exe
+C:\Users\sembo\Desktop\giris\giris\obj\Debug\giris.pdb
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\AForge.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\AForge.Video.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\AForge.xml
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\AForge.Video.xml
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\zxing.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\zxing.presentation.dll
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\zxing.xml
+C:\Users\sembo\Desktop\giris\giris\bin\Debug\zxing.presentation.xml
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\AForge.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\AForge.Video.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\MySql.Data.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\zxing.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\zxing.presentation.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\Google.Protobuf.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\Renci.SshNet.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\System.Memory.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\System.Buffers.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\AForge.xml
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\AForge.Video.xml
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\MySql.Data.xml
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\zxing.xml
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\bin\Debug\zxing.presentation.xml
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\obj\Debug\giris.exe.config
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\obj\Debug\giris.firefisi.resources
+C:\Users\sembo\Desktop\giris\giris\obj\Debug\giris.firefisi.resources
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\AForge.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\AForge.Video.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\zxing.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\zxing.presentation.dll
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\AForge.xml
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\AForge.Video.xml
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\zxing.xml
+C:\Users\Enes Yılmaz\Desktop\giris\giris\bin\Debug\zxing.presentation.xml
+C:\Users\Enes Yılmaz\Desktop\giris\giris\obj\Debug\giris.firefisi.resources
+C:\Users\Enes Yılmaz\Desktop\giris\giris\obj\Debug\giris.Form5.resources
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\obj\Debug\giris.Form5.resources
+C:\Users\Enes Yılmaz\Desktop\Duhan\giris\giris\obj\Debug\giris.Form6.resources
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\giris.exe.config
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\giris.exe
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\giris.pdb
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\AForge.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\AForge.Video.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\MySql.Data.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\zxing.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\zxing.presentation.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\Google.Protobuf.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\Renci.SshNet.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\System.Memory.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\System.Buffers.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\AForge.xml
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\AForge.Video.xml
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\MySql.Data.xml
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\zxing.xml
+C:\Users\sembo\Desktop\c#\giris\giris\bin\Debug\zxing.presentation.xml
+C:\Users\sembo\Desktop\c#\giris\giris\obj\Debug\giris.csprojAssemblyReference.cache
+C:\Users\sembo\Desktop\c#\giris\giris\obj\Debug\giris.exe.config
+C:\Users\sembo\Desktop\c#\giris\giris\obj\Debug\giris.giris.resources
+C:\Users\sembo\Desktop\c#\giris\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\sembo\Desktop\c#\giris\giris\obj\Debug\giris.Form3.resources
+C:\Users\sembo\Desktop\c#\giris\giris\obj\Debug\giris.firefisi.resources
+C:\Users\sembo\Desktop\c#\giris\giris\obj\Debug\giris.Form5.resources
+C:\Users\sembo\Desktop\c#\giris\giris\obj\Debug\giris.Form6.resources
+C:\Users\sembo\Desktop\c#\giris\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\sembo\Desktop\c#\giris\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\sembo\Desktop\c#\giris\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\sembo\Desktop\c#\giris\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\sembo\Desktop\c#\giris\giris\obj\Debug\giris.exe
+C:\Users\sembo\Desktop\c#\giris\giris\obj\Debug\giris.pdb
+C:\Users\sembo\Desktop\c#\giris\giris\obj\Debug\giris.acilis.resources
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\AForge.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\AForge.Video.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\MySql.Data.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\zxing.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\zxing.presentation.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\Google.Protobuf.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\Renci.SshNet.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\System.Memory.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\System.Buffers.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\AForge.xml
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\AForge.Video.xml
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\MySql.Data.xml
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\zxing.xml
+C:\Users\Duhan\Desktop\giris\giris\bin\Debug\zxing.presentation.xml
+C:\Users\Duhan\Desktop\giris\giris\obj\Debug\giris.exe.config
+C:\Users\Duhan\Desktop\giris\giris\obj\Debug\giris.acilis.resources
+C:\Users\Duhan\Desktop\giris\giris\obj\Debug\giris.firefisi.resources
+C:\Users\Duhan\Desktop\giris\giris\obj\Debug\giris.Form5.resources
+C:\Users\Duhan\Desktop\giris\giris\obj\Debug\giris.Form6.resources
+C:\Users\Duhan\Desktop\giris\giris\obj\Debug\giris.csproj.CopyComplete
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\giris.exe.config
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\giris.exe
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\giris.pdb
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\AForge.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\AForge.Video.DirectShow.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\AForge.Video.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\MySql.Data.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\zxing.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\zxing.presentation.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\Google.Protobuf.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\Zstandard.Net.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\BouncyCastle.Crypto.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\Ubiety.Dns.Core.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\Renci.SshNet.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\System.Memory.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\System.Buffers.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\K4os.Compression.LZ4.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\K4os.Hash.xxHash.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\System.Numerics.Vectors.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\AForge.xml
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\AForge.Video.xml
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\AForge.Video.DirectShow.xml
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\MySql.Data.xml
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\zxing.xml
+D:\DUHAN YEDEK\giris.10.08.2021\giris\bin\Debug\zxing.presentation.xml
+D:\DUHAN YEDEK\giris.10.08.2021\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+D:\DUHAN YEDEK\giris.10.08.2021\giris\obj\Debug\giris.exe.config
+D:\DUHAN YEDEK\giris.10.08.2021\giris\obj\Debug\giris.acilis.resources
+D:\DUHAN YEDEK\giris.10.08.2021\giris\obj\Debug\giris.giris.resources
+D:\DUHAN YEDEK\giris.10.08.2021\giris\obj\Debug\giris.detayekrani.resources
+D:\DUHAN YEDEK\giris.10.08.2021\giris\obj\Debug\giris.Form3.resources
+D:\DUHAN YEDEK\giris.10.08.2021\giris\obj\Debug\giris.firefisi.resources
+D:\DUHAN YEDEK\giris.10.08.2021\giris\obj\Debug\giris.Form5.resources
+D:\DUHAN YEDEK\giris.10.08.2021\giris\obj\Debug\giris.Form6.resources
+D:\DUHAN YEDEK\giris.10.08.2021\giris\obj\Debug\giris.Properties.Resources.resources
+D:\DUHAN YEDEK\giris.10.08.2021\giris\obj\Debug\giris.csproj.GenerateResource.cache
+D:\DUHAN YEDEK\giris.10.08.2021\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+D:\DUHAN YEDEK\giris.10.08.2021\giris\obj\Debug\giris.csproj.CopyComplete
+D:\DUHAN YEDEK\giris.10.08.2021\giris\obj\Debug\giris.exe
+D:\DUHAN YEDEK\giris.10.08.2021\giris\obj\Debug\giris.pdb
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\giris.exe.config
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\giris.exe
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\giris.pdb
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\AForge.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\AForge.Video.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\MySql.Data.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\zxing.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\zxing.presentation.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\Google.Protobuf.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\Renci.SshNet.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\System.Memory.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\System.Buffers.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\AForge.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\AForge.Video.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\MySql.Data.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\zxing.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\bin\Debug\zxing.presentation.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.exe.config
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.acilis.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.giris.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.Form3.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.firefisi.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.Form5.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.Form6.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.exe
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.pdb
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giris.10.08.2021d\giris\obj\Debug\giris.Form7.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\giris.exe.config
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\giris.exe
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\giris.pdb
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\AForge.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\AForge.Video.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\MySql.Data.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\zxing.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\zxing.presentation.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\Google.Protobuf.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\Renci.SshNet.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\System.Memory.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\System.Buffers.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\AForge.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\AForge.Video.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\MySql.Data.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\zxing.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\bin\Debug\zxing.presentation.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.exe.config
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.acilis.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.giris.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.Form3.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.firefisi.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.Form5.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.Form6.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.Form7.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.exe
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\giriş-16.08.2021\giris\obj\Debug\giris.pdb
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\giris.exe.config
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\giris.exe
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\giris.pdb
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\AForge.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\AForge.Video.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\MySql.Data.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\zxing.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\zxing.presentation.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\Google.Protobuf.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\Renci.SshNet.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\System.Memory.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\System.Buffers.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\AForge.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\AForge.Video.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\MySql.Data.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\zxing.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\bin\Debug\zxing.presentation.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.exe.config
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.acilis.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.giris.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.Form3.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.firefisi.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.Form5.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.Form6.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.Form7.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.exe
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\18.08.2021\giris\obj\Debug\giris.pdb
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\giris.exe.config
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\giris.exe
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\giris.pdb
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\AForge.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\AForge.Video.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\zxing.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\zxing.presentation.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\Google.Protobuf.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\Renci.SshNet.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\System.Memory.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\System.Buffers.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\AForge.xml
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\AForge.Video.xml
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\MySql.Data.xml
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\zxing.xml
+C:\Users\Wacu\Desktop\20,08.2021\giris\bin\Debug\zxing.presentation.xml
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.exe.config
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.acilis.resources
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.giris.resources
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.Form3.resources
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.firefisi.resources
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.Form5.resources
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.Form6.resources
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.Form7.resources
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.exe
+C:\Users\Wacu\Desktop\20,08.2021\giris\obj\Debug\giris.pdb
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\giris.exe.config
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\giris.exe
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\giris.pdb
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\AForge.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\AForge.Video.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\MySql.Data.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\zxing.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\zxing.presentation.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\Google.Protobuf.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\Renci.SshNet.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\System.Memory.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\System.Buffers.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\AForge.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\AForge.Video.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\MySql.Data.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\zxing.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\bin\Debug\zxing.presentation.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.exe.config
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.acilis.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.giris.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.Form3.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.firefisi.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.Form5.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.Form6.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.Form7.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.exe
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\20.08.2021(is_emri)\giris\obj\Debug\giris.pdb
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\giris.exe.config
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\giris.exe
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\giris.pdb
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\AForge.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\AForge.Video.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\MySql.Data.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\zxing.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\zxing.presentation.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\Google.Protobuf.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\Renci.SshNet.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\System.Memory.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\System.Buffers.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\AForge.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\AForge.Video.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\MySql.Data.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\zxing.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\bin\Debug\zxing.presentation.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.exe.config
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.acilis.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.giris.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.Form3.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.firefisi.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.Form5.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.Form6.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.Form7.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.exe
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\23.08.2021\giris\obj\Debug\giris.pdb
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.exe.config
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.acilis.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.giris.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.Form3.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.firefisi.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.Form5.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.Form6.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.Form7.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.exe
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.pdb
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\giris.exe.config
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\giris.exe
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\giris.pdb
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\AForge.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\AForge.Video.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\MySql.Data.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\zxing.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\zxing.presentation.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\Google.Protobuf.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\Renci.SshNet.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\System.Memory.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\System.Buffers.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\AForge.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\AForge.Video.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\MySql.Data.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\zxing.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\bin\Debug\zxing.presentation.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\25.08.2021\giris\obj\Debug\giris.csproj.CopyComplete
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\giris.exe.config
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\giris.exe
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\giris.pdb
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\AForge.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\AForge.Video.DirectShow.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\AForge.Video.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\zxing.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\zxing.presentation.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\Google.Protobuf.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\Zstandard.Net.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\BouncyCastle.Crypto.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\Ubiety.Dns.Core.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\Renci.SshNet.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\System.Memory.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\System.Buffers.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\K4os.Compression.LZ4.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\K4os.Hash.xxHash.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\System.Numerics.Vectors.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\AForge.xml
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\AForge.Video.xml
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\AForge.Video.DirectShow.xml
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\MySql.Data.xml
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\zxing.xml
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\zxing.presentation.xml
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.exe.config
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.acilis.resources
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.giris.resources
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.detayekrani.resources
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.Form3.resources
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.firefisi.resources
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.Form5.resources
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.Form6.resources
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.Form7.resources
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.Properties.Resources.resources
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.csproj.GenerateResource.cache
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.csproj.CopyComplete
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.exe
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.pdb
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\giris.exe.config
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\giris.exe
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\giris.pdb
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\AForge.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\AForge.Video.DirectShow.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\AForge.Video.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\MySql.Data.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\zxing.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\zxing.presentation.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\Google.Protobuf.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\Zstandard.Net.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\BouncyCastle.Crypto.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\Ubiety.Dns.Core.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\Renci.SshNet.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\System.Memory.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\System.Buffers.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\K4os.Compression.LZ4.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\K4os.Hash.xxHash.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\System.Numerics.Vectors.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\AForge.xml
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\AForge.Video.xml
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\AForge.Video.DirectShow.xml
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\MySql.Data.xml
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\zxing.xml
+G:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\zxing.presentation.xml
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.exe.config
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.acilis.resources
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.giris.resources
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.detayekrani.resources
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.Form3.resources
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.firefisi.resources
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.Form5.resources
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.Form6.resources
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.Form7.resources
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.Properties.Resources.resources
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.csproj.GenerateResource.cache
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.csproj.CopyComplete
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.exe
+G:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.pdb
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\giris.exe.manifest
+D:\26.08.2021-DRLM.HAZIR\giris\bin\Debug\giris.application
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.exe.manifest
+D:\26.08.2021-DRLM.HAZIR\giris\obj\Debug\giris.application
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\giris.exe.config
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\giris.exe.manifest
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\giris.application
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\giris.exe
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\giris.pdb
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\AForge.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\AForge.Video.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\MySql.Data.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\zxing.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\zxing.presentation.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\Google.Protobuf.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\Renci.SshNet.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\System.Memory.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\System.Buffers.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\AForge.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\AForge.Video.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\MySql.Data.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\zxing.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\bin\Debug\zxing.presentation.xml
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.exe.config
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.acilis.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.giris.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.Form3.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.firefisi.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.Form5.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.Form6.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.Form7.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.exe.manifest
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.application
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.exe
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.pdb
+C:\Users\sembo\Desktop\M.erdil\c# proje geçmiş\06.09.2020\giris\obj\Debug\giris.Form8.resources
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.acilis.resources
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.giris.resources
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.Form3.resources
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.firefisi.resources
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.Form5.resources
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.Form6.resources
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.Form7.resources
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.Form8.resources
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.exe
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.pdb
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\giris.exe.config
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\giris.exe.manifest
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\giris.application
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\giris.exe
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\giris.pdb
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\AForge.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\AForge.Video.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\zxing.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\zxing.presentation.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\System.Memory.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\System.Buffers.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\AForge.xml
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\AForge.Video.xml
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\zxing.xml
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\zxing.presentation.xml
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.exe.manifest
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.application
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\CircularProgressBar.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\WinFormAnimation.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\sembol-arge\Desktop\c#proje\06.09.2020\giris\bin\Debug\PulseButton.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.acilis.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.giris.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.Form3.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.firefisi.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.Form5.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.Form6.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.Form7.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.Form8.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.exe
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.pdb
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\giris.exe.config
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\giris.exe.manifest
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\giris.application
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\giris.exe
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\giris.pdb
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\AForge.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\AForge.Video.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\CircularProgressBar.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\PulseButton.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\WinFormAnimation.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\zxing.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\zxing.presentation.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\System.Buffers.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\System.Memory.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\AForge.xml
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\AForge.Video.xml
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\zxing.xml
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\bin\Debug\zxing.presentation.xml
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.exe.manifest
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.application
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2020\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\giris.exe.config
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\giris.exe.manifest
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\giris.application
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\giris.exe
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\giris.pdb
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\AForge.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\AForge.Video.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\CircularProgressBar.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\PulseButton.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\WinFormAnimation.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\zxing.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\zxing.presentation.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\System.Buffers.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\System.Memory.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\AForge.xml
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\AForge.Video.xml
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\zxing.xml
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\bin\Debug\zxing.presentation.xml
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.acilis.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.giris.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.Form3.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.firefisi.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.Form5.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.Form6.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.Form7.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.Form8.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.exe.manifest
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.application
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.exe
+C:\Users\sembol-arge\Desktop\c#proje\12.10.2021\giris\obj\Debug\giris.pdb
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.acilis.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.giris.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.Form3.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.firefisi.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.Form5.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.Form6.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.Form7.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.Form8.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.exe
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.pdb
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\giris.exe.config
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\giris.exe.manifest
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\giris.application
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\giris.exe
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\giris.pdb
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\AForge.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\AForge.Video.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\CircularProgressBar.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\PulseButton.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\WinFormAnimation.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\zxing.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\zxing.presentation.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\System.Buffers.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\System.Memory.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\AForge.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\AForge.Video.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\zxing.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\bin\Debug\zxing.presentation.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.exe.manifest
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.application
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.sunucuekran.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.Form10.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.Form9.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.admin.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021\giris\obj\Debug\giris.Form11.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.csproj.AssemblyReference.cache
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.acilis.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.admin.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.giris.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.Form10.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.Form11.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.detayekrani.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.Form3.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.firefisi.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.Form5.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.Form6.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.Form7.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.Form8.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.Form9.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.sunucuekran.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.csproj.GenerateResource.cache
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.csproj.CoreCompileInputs.cache
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\giris.exe.config
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\giris.exe.manifest
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\giris.application
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\giris.exe
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\giris.pdb
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\AForge.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\AForge.Video.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\CircularProgressBar.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\PulseButton.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\WinFormAnimation.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\zxing.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\zxing.presentation.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\System.Buffers.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\System.Memory.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\AForge.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\AForge.Video.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\zxing.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\zxing.presentation.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.Properties.Resources.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.exe.manifest
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.application
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.csproj.CopyComplete
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.exe
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\giris.pdb

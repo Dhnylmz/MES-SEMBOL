@@ -1,0 +1,616 @@
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\Sembol Otomotiv Mes.exe.config
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\Sembol Otomotiv Mes.exe.manifest
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\Sembol Otomotiv Mes.application
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\Sembol Otomotiv Mes.exe
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\Sembol Otomotiv Mes.pdb
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\AForge.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\AForge.Video.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\CircularProgressBar.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\PulseButton.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\WinFormAnimation.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\zxing.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\zxing.presentation.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\Zstandard.Net.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\System.Buffers.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\System.Memory.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\AForge.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\AForge.Video.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\zxing.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\bin\Debug\zxing.presentation.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.csproj.AssemblyReference.cache
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.acilis.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.admin.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.giris.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.Form10.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.Form11.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.detayekrani.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.Form3.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.firefisi.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.Form5.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.Form6.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.Form7.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.Form8.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.Form9.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.Properties.Resources.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.sunucuekran.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.csproj.GenerateResource.cache
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.csproj.CoreCompileInputs.cache
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\Sembol Otomotiv Mes.exe.manifest
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\Sembol Otomotiv Mes.application
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\SembolMes.csproj.CopyComplete
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\Sembol Otomotiv Mes.exe
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\giris\obj\Debug\Sembol Otomotiv Mes.pdb
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\AForge.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\CircularProgressBar.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\PulseButton.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\WinFormAnimation.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\zxing.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\zxing.presentation.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\Zstandard.Net.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\System.Buffers.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\System.Memory.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\AForge.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\zxing.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\zxing.presentation.xml
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.AssemblyReference.cache
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.acilis.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.admin.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.giris.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form10.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form11.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.detayekrani.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form3.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.firefisi.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form5.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form6.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form7.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form8.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form9.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Properties.Resources.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.sunucuekran.resources
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.GenerateResource.cache
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CoreCompileInputs.cache
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CopyComplete
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\SembolMes.pdb
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.pdb
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\SembolMes.exe.config
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\SembolMes.exe.manifest
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\SembolMes.application
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\bin\Debug\SembolMes.exe
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.exe.manifest
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.application
+C:\Users\sembol-arge\Desktop\c#proje\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.exe
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\SembolMes.exe.config
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\SembolMes.exe.manifest
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\SembolMes.application
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\SembolMes.exe
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\SembolMes.pdb
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\AForge.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\CircularProgressBar.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\PulseButton.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\WinFormAnimation.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\zxing.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\zxing.presentation.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\Zstandard.Net.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\System.Buffers.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\System.Memory.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\AForge.xml
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.xml
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\zxing.xml
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\bin\Debug\zxing.presentation.xml
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.AssemblyReference.cache
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.acilis.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.admin.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.giris.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form10.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form11.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.detayekrani.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form3.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.firefisi.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form5.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form6.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form7.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form8.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form9.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Properties.Resources.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.sunucuekran.resources
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.GenerateResource.cache
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CoreCompileInputs.cache
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.exe.manifest
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.application
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CopyComplete
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.exe
+C:\Users\DY\Desktop\25.10.2021 - Kopya\SembolMes\obj\Debug\SembolMes.pdb
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\SembolMes.exe.config
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\SembolMes.exe.manifest
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\SembolMes.application
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\SembolMes.exe
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\SembolMes.pdb
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\AForge.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\CircularProgressBar.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\PulseButton.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\WinFormAnimation.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\zxing.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\zxing.presentation.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\Zstandard.Net.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\System.Buffers.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\System.Memory.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\AForge.xml
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.xml
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\zxing.xml
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\zxing.presentation.xml
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.AssemblyReference.cache
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.acilis.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.admin.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.giris.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form10.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form11.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.detayekrani.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form3.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.firefisi.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form5.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form6.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form7.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form8.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form9.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Properties.Resources.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.sunucuekran.resources
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.GenerateResource.cache
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CoreCompileInputs.cache
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.exe.manifest
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.application
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CopyComplete
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.exe
+C:\Users\sembol-arge\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.pdb
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\SembolMes.exe.config
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\SembolMes.exe.manifest
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\SembolMes.application
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\SembolMes.exe
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\SembolMes.pdb
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\AForge.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\CircularProgressBar.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\PulseButton.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\WinFormAnimation.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\zxing.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\zxing.presentation.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\Zstandard.Net.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\System.Buffers.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\System.Memory.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\AForge.xml
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.xml
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\zxing.xml
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\bin\Debug\zxing.presentation.xml
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.AssemblyReference.cache
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.acilis.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.admin.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.giris.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form10.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form11.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.detayekrani.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form3.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.firefisi.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form5.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form6.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form7.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form8.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Form9.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.Properties.Resources.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.sunucuekran.resources
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.GenerateResource.cache
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CoreCompileInputs.cache
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.exe.manifest
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.application
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CopyComplete
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.exe
+C:\Users\DY\Desktop\03.12.2021 - Kopya\SembolMes\obj\Debug\SembolMes.pdb
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\SembolMes.exe.config
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\SembolMes.exe.manifest
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\SembolMes.application
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\SembolMes.exe
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\SembolMes.pdb
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\AForge.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\AForge.Video.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\CircularProgressBar.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\PulseButton.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\WinFormAnimation.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\zxing.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\zxing.presentation.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\Zstandard.Net.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\System.Buffers.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\System.Memory.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\AForge.xml
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\AForge.Video.xml
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\zxing.xml
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\bin\Debug\zxing.presentation.xml
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.csproj.AssemblyReference.cache
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.acilis.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.admin.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.giris.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.Form10.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.Form11.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.detayekrani.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.Form3.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.firefisi.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.Form5.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.Form6.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.Form7.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.Form8.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.Form9.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.nodemcu.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.Properties.Resources.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.sunucuekran.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.csproj.GenerateResource.cache
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.csproj.CoreCompileInputs.cache
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.exe.manifest
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.application
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.csproj.CopyComplete
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.exe
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.pdb
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.Form12.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.IDARI.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.anliküretimizleme.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.ISEMRIDÜZENLEME.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.OPERATÖR_RAPORU.resources
+C:\Users\sembol-arge\Desktop\27.01.2022 -\SembolMes\obj\Debug\SembolMes.ÜRETİMRAPORU.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.exe.config
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.exe.manifest
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.application
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.exe
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.pdb
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\CircularProgressBar.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\PulseButton.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\WinFormAnimation.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.presentation.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\Zstandard.Net.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\System.Buffers.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\System.Memory.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.xml
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.xml
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.xml
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.presentation.xml
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csproj.AssemblyReference.cache
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.acilis.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.admin.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.anliküretimizleme.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.giris.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form10.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form11.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form12.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.detayekrani.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form3.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.firefisi.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form5.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form6.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form7.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form8.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form9.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.IDARI.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.ISEMRIDÜZENLEME.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.nodemcu.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Properties.Resources.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.sunucuekran.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.OPERATÖR_RAPORU.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.ÜRETİMRAPORU.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csproj.GenerateResource.cache
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CoreCompileInputs.cache
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.exe.manifest
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.application
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CopyComplete
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.exe
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.pdb
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.ArizaBakim.resources
+C:\Users\sembol-arge\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.MailForm.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.exe.config
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.exe.manifest
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.application
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.exe
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.pdb
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\CircularProgressBar.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\PulseButton.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\WinFormAnimation.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.presentation.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\Zstandard.Net.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\System.Buffers.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\System.Memory.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.xml
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.xml
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.xml
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.presentation.xml
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csprojAssemblyReference.cache
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.acilis.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.admin.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.anliküretimizleme.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.ArizaBakim.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.giris.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form10.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form11.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form12.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.detayekrani.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form3.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.firefisi.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form5.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form6.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form7.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form8.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form9.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.IDARI.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.ISEMRIDÜZENLEME.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.MailForm.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.nodemcu.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Properties.Resources.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.sunucuekran.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.OPERATÖR_RAPORU.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.ÜRETİMRAPORU.resources
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csproj.GenerateResource.cache
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CoreCompileInputs.cache
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.exe.manifest
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.application
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CopyComplete
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.exe
+C:\Users\Enes Yılmaz\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.pdb
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.exe.config
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.exe.manifest
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.application
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.exe
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.pdb
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\CircularProgressBar.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\HtmlAgilityPack.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\PulseButton.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\WinFormAnimation.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.presentation.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\Zstandard.Net.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\System.Buffers.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\System.Memory.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.xml
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.xml
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\HtmlAgilityPack.xml
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.xml
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.presentation.xml
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.acilis.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.admin.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.anliküretimizleme.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.ArizaBakim.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.giris.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form10.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form11.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form12.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.detayekrani.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form3.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.firefisi.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form5.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form6.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form7.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form8.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form9.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.IDARI.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.ISEMRIDÜZENLEME.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.MailForm.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.nodemcu.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Properties.Resources.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.sunucuekran.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.OPERATÖR_RAPORU.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.ÜRETİMRAPORU.resources
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csproj.GenerateResource.cache
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CoreCompileInputs.cache
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.exe.manifest
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.application
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CopyComplete
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.exe
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.pdb
+C:\Users\sembol-arge\Desktop\1602\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csproj.AssemblyReference.cache
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.exe.config
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.exe.manifest
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.application
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.exe
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\SembolMes.pdb
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.dll
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.dll
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\CircularProgressBar.dll
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\HtmlAgilityPack.dll
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\PulseButton.dll
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\WinFormAnimation.dll
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.dll
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.presentation.dll
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.xml
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.xml
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\HtmlAgilityPack.xml
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.xml
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\bin\Debug\zxing.presentation.xml
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.acilis.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.admin.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.anliküretimizleme.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.ArizaBakim.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.giris.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form10.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form11.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form12.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.detayekrani.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form3.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.firefisi.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form5.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form6.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form7.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form8.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Form9.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.IDARI.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.ISEMRIDÜZENLEME.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.MailForm.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.nodemcu.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.Properties.Resources.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.sunucuekran.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.OPERATÖR_RAPORU.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.ÜRETİMRAPORU.resources
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csproj.GenerateResource.cache
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CoreCompileInputs.cache
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.exe.manifest
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.application
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csproj.CopyComplete
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.exe
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.pdb
+C:\Users\DY\Desktop\12.02.2022 - - Kopya\SembolMes\obj\Debug\SembolMes.csproj.AssemblyReference.cache
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\SembolMes.exe.config
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\SembolMes.exe.manifest
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\SembolMes.application
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\SembolMes.exe
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\SembolMes.pdb
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\AForge.dll
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\AForge.Video.dll
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\CircularProgressBar.dll
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\HtmlAgilityPack.dll
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\PulseButton.dll
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\WinFormAnimation.dll
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\zxing.dll
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\zxing.presentation.dll
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\AForge.xml
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\AForge.Video.xml
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\HtmlAgilityPack.xml
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\zxing.xml
+C:\Users\DY\Desktop\04.03.2022\SembolMes\bin\Debug\zxing.presentation.xml
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.csproj.AssemblyReference.cache
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.acilis.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.admin.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.anliküretimizleme.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.ArizaBakim.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.giris.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.Form10.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.Form11.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.Form12.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.detayekrani.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.Form3.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.firefisi.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.Form5.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.Form6.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.Form7.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.Form8.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.Form9.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.IDARI.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.ISEMRIDÜZENLEME.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.MailForm.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.nodemcu.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.Properties.Resources.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.sunucuekran.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.OPERATÖR_RAPORU.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.ÜRETİMRAPORU.resources
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.csproj.GenerateResource.cache
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.csproj.CoreCompileInputs.cache
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.exe.manifest
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.application
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.csproj.CopyComplete
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.exe
+C:\Users\DY\Desktop\04.03.2022\SembolMes\obj\Debug\SembolMes.pdb
