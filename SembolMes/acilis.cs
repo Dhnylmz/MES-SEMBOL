@@ -51,6 +51,7 @@ namespace SembolMes
             {
                 MessageBox.Show("HATA");
                 /// HATA EKLENDİ
+                /// /// 
             }
 
         }
