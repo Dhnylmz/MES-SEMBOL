@@ -58,7 +58,7 @@ namespace SembolMes
             }
             catch (Exception)
             {
-
+               MessageBox.Show("HATA");
             }
 
 
