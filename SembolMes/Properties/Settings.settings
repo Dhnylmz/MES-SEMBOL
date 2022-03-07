@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SembolMes.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="kullaniciadi" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="sifre" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="server_sql" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.44</Value>
+    </Setting>
+    <Setting Name="database_sql" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SEMBOL_22</Value>
+    </Setting>
+    <Setting Name="user_id_sql" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hbs</Value>
+    </Setting>
+    <Setting Name="password_sql" Type="System.String" Scope="User">
+      <Value Profile="(Default)">240305</Value>
+    </Setting>
+    <Setting Name="database_mes_sql" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MES_21</Value>
+    </Setting>
+    <Setting Name="mysql_server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.59</Value>
+    </Setting>
+    <Setting Name="oneri_gonderen_mail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dyilmaz@sembolotomotiv.com.tr</Value>
+    </Setting>
+    <Setting Name="oneri_alici_mail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">itasgeyen@sembolotomotiv.com.tr</Value>
+    </Setting>
+    <Setting Name="oneri_gonderen_sifre" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dy155155</Value>
+    </Setting>
+    <Setting Name="ariza_gonderen_mail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dyilmaz@sembolotomotiv.com.tr</Value>
+    </Setting>
+    <Setting Name="ariza_gonderen_sifre" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dy155155</Value>
+    </Setting>
+    <Setting Name="ariza_alici_mail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yguneysu@sembolotomotiv.com.tr</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
